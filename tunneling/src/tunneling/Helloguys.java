@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		
 		System.out.println("Hi Java");
 
-		System.out.println("Hi girls and boys");
+		System.out.println("Hi girls and boyyyys");
 
 		// TODO Auto-generated method stub
 
